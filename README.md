@@ -1,2 +1,2 @@
 # firststuff
-This is going to by Bort's 1st stuff!
+This is going to be Bort's 1st stuff!
